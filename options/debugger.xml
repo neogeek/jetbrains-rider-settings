@@ -5,9 +5,9 @@
     </data-views>
     <general />
     <debuggers>
-      <debugger id="ObjectiveC">
+      <debugger id="dotnet_debugger">
         <configuration>
-          <nt-symbol-settings />
+          <option name="breakOnUserUnhandledExceptions" value="true" />
         </configuration>
       </debugger>
       <debugger id="javascript">

@@ -1,0 +1,11 @@
+<keymap version="1" name="Rider (macOS) copy" parent="Rider OSX">
+  <action id="ActivateCommitToolWindow" />
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="Macro.Reformat Code + Save All">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="RiderCoveringTestsPopupRunSelectedAction" />
+  <action id="SaveAll" />
+</keymap>
